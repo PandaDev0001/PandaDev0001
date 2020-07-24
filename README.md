@@ -4,6 +4,6 @@
 
 ### Hi there 👋
 
-My name is Douglas, I am 18 years old and I am passionate about programming, I like to constantly learn new things. I focus on web technologies.
+I am 18 years old and I am passionate about programming, I like to constantly learn new things. I focus on web technologies.
 
 
